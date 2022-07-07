@@ -233,6 +233,7 @@ a {
   font-size: 12px;
   margin-bottom: 10px;
   color: white;
+  text-align: justify;
 }
 
 .image-container {
